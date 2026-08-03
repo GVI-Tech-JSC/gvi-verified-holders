@@ -1,0 +1,27 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 480 130" width="480" height="130">
+<defs>
+  <style>
+    .bt { font-family: 'Inter', system-ui, Arial, sans-serif;
+          font-weight: 900; letter-spacing: -1px; }
+  </style>
+</defs>
+  <rect width="480" height="130" fill="#1C1D1F"/>
+  
+  <g transform="translate(10.0,13.5) scale(1.0)" opacity="0.45">
+    <path d="M22 28 C22 48,36 52,50 52 C64 52,78 48,78 28" fill="none" stroke="#1C1D1F"
+          stroke-width="24" stroke-linecap="round"/>
+    <circle cx="50" cy="64" r="21" fill="none" stroke="#1C1D1F" stroke-width="24"/>
+    <path d="M22 28 C22 48,36 52,50 52 C64 52,78 48,78 28" fill="none" stroke="#1C1D1F"
+          stroke-width="14" stroke-linecap="round"/>
+    <circle cx="50" cy="64" r="21" fill="none" stroke="#1C1D1F" stroke-width="14"/>
+  </g>
+  <g transform="translate(6.0,8.5) scale(1.0)">
+    <path d="M22 28 C22 48,36 52,50 52 C64 52,78 48,78 28" fill="none" stroke="#1C1D1F"
+          stroke-width="24" stroke-linecap="round"/>
+    <circle cx="50" cy="64" r="21" fill="none" stroke="#1C1D1F" stroke-width="24"/>
+    <path d="M22 28 C22 48,36 52,50 52 C64 52,78 48,78 28" fill="none" stroke="#FCB712"
+          stroke-width="14" stroke-linecap="round"/>
+    <circle cx="50" cy="64" r="21" fill="none" stroke="#FCB712" stroke-width="14"/>
+  </g>
+  <text x="120.0" y="90" class="bt" font-size="94" fill="#F3F4F6">GVI-JSC</text>
+</svg>
